@@ -47,4 +47,4 @@ npm start
 
 ### Accessing the website
 
-After initializing both the view and backend servers, navigate to [localhost:3000](http://localhost:3000/) in your browser. 
+After initializing both the view and backend servers, navigate to [localhost:3000](http://localhost:3000/) in your browser.  
