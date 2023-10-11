@@ -11,7 +11,7 @@ Note that your database should have the same schema as the one in this [link](ht
 
 *If you're using Gmail, you'll need to enter an app password in the EMAIL_PASSWD field. Click [here](https://support.google.com/mail/answer/185833?hl=en-GB) to find out how to generate an app password for your Gmail.
 
-## Setting up dependencies
+## Setting up dependencies 
 
 Install python if you don't have it already.
 
